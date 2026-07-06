@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard built to analyze e-commerce sales performance, uncover revenue and profit trends, and support data-driven business decisions across products, regions, and payment channels.
 
-![Dashboard Preview](https://github.com/Jeevan1405/Sales-Revenue-Dashboard/assets/109805535/67fb723d-020e-4650-90eb-cfe4c4146275)
+![Dashboard Preview](https://github.com/Jeevan1405/Sales-Revenue-Dashboard/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner)
 
 ## Overview
 
